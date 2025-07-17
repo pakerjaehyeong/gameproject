@@ -4,10 +4,31 @@ void main()
 #pragma region 산술 연산자
 
 	// 1. 변수 = 변수 + 변수
+	int a = 2;
+	int b = 3;
+	int sum1 = a + b;
+	printf("sum1 = %d\n", sum1);
+
 	// 2. 변수 = 변수 - 리터널 상수
+	int c = 12;
+	int result1 = c - 2;
+	printf("result1 = %d\n", result1);
+
 	// 3. 변수 = 변수 * 심볼릭 상수
+	int d = 3;
+	const int e = 2;
+	int result2 = d * e;
+	printf("result2 = %d\n", result2);
+
 	// 4. 변수 = 리터널 상수 / 리터널 상수
+	int result3 = 12 / 6;
+	printf("result3 = %d\n", result3);
+
 	// 5. 변수 = 심볼릭 상수 % 리터널 상수
+	const int f = 20;
+	int result4 = f % 5;
+	printf("result4 = %d\n", result4);
+
 
 
 
