@@ -7,6 +7,9 @@
       "RelativeMoniker": "D:0:0:{39721500-CFAC-4DEF-A79B-53C1AF71B3AF}|program.vcxproj|solutionrelative:source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{760153C6-3C99-4CFB-88BE-97F6AFBE5AF8}|..\\class3pagebit\\class3pagebit.vcxproj|C:\\Users\\SBS\\Desktop\\gameproject\\class3pagebit\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8EF51814-F241-4861-A644-64D870D4EC89}|..\\Class2th (Variable \u0026 Constant)\\Class2th (Variable \u0026 Constant).vcxproj|C:\\Users\\SBS\\Desktop\\gameproject\\Class2th (Variable \u0026 Constant)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -17,7 +20,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -27,14 +30,25 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "source.c",
+              "DocumentMoniker": "C:\\Users\\SBS\\Desktop\\gameproject\\class3pagebit\\source.c",
+              "RelativeDocumentMoniker": "..\\class3pagebit\\source.c",
+              "ToolTip": "C:\\Users\\SBS\\Desktop\\gameproject\\class3pagebit\\source.c",
+              "RelativeToolTip": "..\\class3pagebit\\source.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-18T09:50:50.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "source.c",
               "DocumentMoniker": "C:\\Users\\SBS\\Desktop\\gameproject\\Class2th (Variable \u0026 Constant)\\source.c",
               "RelativeDocumentMoniker": "..\\Class2th (Variable \u0026 Constant)\\source.c",
               "ToolTip": "C:\\Users\\SBS\\Desktop\\gameproject\\Class2th (Variable \u0026 Constant)\\source.c",
               "RelativeToolTip": "..\\Class2th (Variable \u0026 Constant)\\source.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-07-17T09:17:36.489Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-17T09:17:36.489Z"
             },
             {
               "$type": "Document",
@@ -44,7 +58,7 @@
               "RelativeDocumentMoniker": "source.c",
               "ToolTip": "C:\\Users\\SBS\\Desktop\\gameproject\\program\\source.c",
               "RelativeToolTip": "source.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGYAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-07-15T10:25:18.922Z",
               "EditorCaption": ""
