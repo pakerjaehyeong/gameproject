@@ -7,6 +7,9 @@
       "RelativeMoniker": "D:0:0:{39721500-CFAC-4DEF-A79B-53C1AF71B3AF}|program.vcxproj|solutionrelative:source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{1239B18A-4169-4EDC-B3AA-4DB60A67D35F}|..\\class3th(bit)\\class3th(bit).vcxproj|C:\\Users\\MS\\Desktop\\gameproject\\class3th(bit)\\class3th(bit).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SBS\\Desktop\\gameproject\\Class2th (Variable \u0026 Constant)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -17,11 +20,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "class3th(bit).cpp",
+              "DocumentMoniker": "C:\\Users\\MS\\Desktop\\gameproject\\class3th(bit)\\class3th(bit).cpp",
+              "RelativeDocumentMoniker": "..\\class3th(bit)\\class3th(bit).cpp",
+              "ToolTip": "C:\\Users\\MS\\Desktop\\gameproject\\class3th(bit)\\class3th(bit).cpp",
+              "RelativeToolTip": "..\\class3th(bit)\\class3th(bit).cpp",
+              "ViewState": "AgIAAGUAAAAAAAAAAADwv3cAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-22T06:40:29.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "source.c",
               "DocumentMoniker": "C:\\Users\\SBS\\Desktop\\gameproject\\Class2th (Variable \u0026 Constant)\\source.c",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\SBS\\Desktop\\gameproject\\Class2th (Variable \u0026 Constant)\\source.c",
@@ -38,7 +54,7 @@
               "RelativeDocumentMoniker": "source.c",
               "ToolTip": "C:\\Users\\MS\\Desktop\\gameproject\\program\\source.c",
               "RelativeToolTip": "source.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-07-15T10:25:18.922Z",
               "EditorCaption": ""
