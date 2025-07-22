@@ -2,67 +2,69 @@
 void main()
 
 {
-#pragma region ¿À¹öÇÃ·Î¿ì
-	// Æ¯Á¤ÇÑ ÀÚ·áÇüÀÌ Ç¥ÇöÇÒ ¼ö ÀÖ´Â ÃÖ´ë°ªÀÇ ¹üÀ§¸¦
-	// ³Ñ¾î¼­ ¿¬»êÀ» ¼öÇàÇÏ´Â °úÁ¤ÀÔ´Ï´Ù
+#pragma region ì˜¤ë²„í”Œë¡œìš°
+	// íŠ¹ì •í•œ ìžë£Œí˜•ì´ í‘œí˜„í•  ìˆ˜ ìžˆëŠ” ìµœëŒ€ê°’ì˜ ë²”ìœ„ë¥¼
+	// ë„˜ì–´ì„œ ì—°ì‚°ì„ ìˆ˜í–‰í•˜ëŠ” ê³¼ì •ìž…ë‹ˆë‹¤
 
 
 
 	//char storage = 127 + 1;
-	//printf("º¯¼ö storageÀÇ °ª:%d", storage);
+	//printf("ë³€ìˆ˜ storageì˜ ê°’:%d", storage);
 
-	//charÀÇ Ç¥±â °¡´ÉÇÑ ÃÖ´ë °ªÀº -128~127 
-	//127ÀÇ 2Áø¼ö (0111 1111) 127 + 1 ÀÇ 2Áø¼ö(0111 1111 + 0001)= (1000 0000)= -128
-	//¿À¹öÇÃ·Î¿ìµÈ °ª -128
+	//charì˜ í‘œê¸° ê°€ëŠ¥í•œ ìµœëŒ€ ê°’ì€ -128~127 
+	//127ì˜ 2ì§„ìˆ˜ (0111 1111) 127 + 1 ì˜ 2ì§„ìˆ˜(0111 1111 + 0001)= (1000 0000)= -128
+	//ì˜¤ë²„í”Œë¡œìš°ëœ ê°’ -128
 
-	// ¿À¹öÇÃ·Î¿ì´Â ºÎÈ£ ¾ø´Â ÀÚ·áÇü¿¡¼­µµ ¶È°°ÀÌ ¹ß»ýÇÏ¸ç,
-	//½Ç¼öÀÏ ¶§ ¿À¹öÇÃ·Î¿ì°¡ ¹ß»ýÇÏ¸é infinity¶ó´Â °ªÀ¸·Î Ãâ·ÂµË´Ï´Ù
+	// ì˜¤ë²„í”Œë¡œìš°ëŠ” ë¶€í˜¸ ì—†ëŠ” ìžë£Œí˜•ì—ì„œë„ ë˜‘ê°™ì´ ë°œìƒí•˜ë©°,
+	//ì‹¤ìˆ˜ì¼ ë•Œ ì˜¤ë²„í”Œë¡œìš°ê°€ ë°œìƒí•˜ë©´ infinityë¼ëŠ” ê°’ìœ¼ë¡œ ì¶œë ¥ë©ë‹ˆë‹¤
 #pragma endregion
 
-#pragma region ¾ð´õÇÃ·Î¿ì
-	//Æ¯Á¤ÇÑ ÀÚ·áÇüÀÌ Ç¥ÇöÇÒ¼ö ÀÖ´Â ÃÖ¼Ú°ªÀÇ ¹üÀ§¸¦
-	//³Ñ¾î¼­ ¿¬»êÀ» ¼öÇàÇÏ´Â °úÁ¤ÀÔ´Ï´Ù
+#pragma region ì–¸ë”í”Œë¡œìš°
+	//íŠ¹ì •í•œ ìžë£Œí˜•ì´ í‘œí˜„í• ìˆ˜ ìžˆëŠ” ìµœì†Ÿê°’ì˜ ë²”ìœ„ë¥¼
+	//ë„˜ì–´ì„œ ì—°ì‚°ì„ ìˆ˜í–‰í•˜ëŠ” ê³¼ì •ìž…ë‹ˆë‹¤
 
 	//char data = -128 - 1;
 
-	//printf("º¯¼ö dataÀÇ °ª:%d\n", data);
+	//printf("ë³€ìˆ˜ dataì˜ ê°’:%d\n", data);
 
-	//Ãâ·Â°á°ú 127 ÀÌÀ¯´Â ¿À¹öÇÃ·Î¿ì¿Í °°´Ù 
-	//¾ð´õÇÃ·Î¿ì´Â ºÎÈ£ ¾ø´Â ÀÚ·áÇü¿¡¼­µµ ¶È°°ÀÌ ¹ß»ýÇÏ¸ç
-	// ½Ç¼öÀÏ ¶§ ¾ðÇÃ·Î¿ì°¡ ¹ß»ýÇÏ¸é 0ÀÌ¶ó´Â °ªÀ¸·Î Ãâ·ÂµË´Ï´Ù
+	//ì¶œë ¥ê²°ê³¼ 127 ì´ìœ ëŠ” ì˜¤ë²„í”Œë¡œìš°ì™€ ê°™ë‹¤ 
+	//ì–¸ë”í”Œë¡œìš°ëŠ” ë¶€í˜¸ ì—†ëŠ” ìžë£Œí˜•ì—ì„œë„ ë˜‘ê°™ì´ ë°œìƒí•˜ë©°
+	// ì‹¤ìˆ˜ì¼ ë•Œ ì–¸í”Œë¡œìš°ê°€ ë°œìƒí•˜ë©´ 0ì´ë¼ëŠ” ê°’ìœ¼ë¡œ ì¶œë ¥ë©ë‹ˆë‹¤
 #pragma endregion
 
-#pragma region ºÎÈ£¾ø´Â ÀÚ·áÇü (unsgined) 
+#pragma region ë¶€í˜¸ì—†ëŠ” ìžë£Œí˜• (unsgined) 
 
 	//unsigned int count = 4294967295;
 	//
 	//// [1111 1111] [1111 1111] [1111 1111] [1111 1111]
-	//printf("sigend count º¯¼öÀÇ °ª : %d\n", count);
+	//printf("sigend count ë³€ìˆ˜ì˜ ê°’ : %d\n", count);
 	//
 	//// [1111 1111] [1111 1111] [1111 1111] [1111 1111]
-	//printf("unsigned cout º¯¼öÀÇ °ª: %u\n", count);
+	//printf("unsigned cout ë³€ìˆ˜ì˜ ê°’: %u\n", count);
 
 
 #pragma endregion
 
-#pragma region ½Ç¼ö¸¦ Ç¥ÇöÇÏ´Â ¹æ¹ý
+#pragma region ì‹¤ìˆ˜ë¥¼ í‘œí˜„í•˜ëŠ” ë°©ë²•
 
 	float decimal = 3.1f;
 
-	//Á¤¼öÇü ¸®ÅÍ·² »ó¼ö´Â ÀúÀåÇÏ´Â °ªÀÇ ¹üÀ§°¡ Å©Áö ¾ÊÀ¸¸é
-	//int ÀÚ·áÇüÀ¸·Î ÀúÀåµÇ¸ç , ½Ç¼öÇü ¸®ÅÍ³Î »ó¼ö´Âdouble
-	//ÀÚ·áÇüÀ¸·Î ÀúÀåµË´Ï´Ù
+	//ì •ìˆ˜í˜• ë¦¬í„°ëŸ´ ìƒìˆ˜ëŠ” ì €ìž¥í•˜ëŠ” ê°’ì˜ ë²”ìœ„ê°€ í¬ì§€ ì•Šìœ¼ë©´
+	//int ìžë£Œí˜•ìœ¼ë¡œ ì €ìž¥ë˜ë©° , ì‹¤ìˆ˜í˜• ë¦¬í„°ë„ ìƒìˆ˜ëŠ”double
+	//ìžë£Œí˜•ìœ¼ë¡œ ì €ìž¥ë©ë‹ˆë‹¤
 
-	printf("decimal º¯¼öÀÇ °ª : %.7f\n", decimal);
+	printf("decimal ë³€ìˆ˜ì˜ ê°’ : %.7f\n", decimal);
 
-	// Ç¥ÁØ Ç®·Ç ÇÔ¼ö·Î ¼Ò¼ö¸¦ Ãâ·ÂÇÒ¶§ 4 byre Å©±âÀÇ ½Ç¼öÇü
-	//ÀÚ·áÇüÀº ¼Ò¼öÁ¡ ÀÌÇÏ 6ÀÚ¸®±îÁö¸¸ Ç¥±âÇÏ¸ç, 8 byte Å©±âÀÇ
-	//½Ç¼öÇü ÀÚ·áÇüÀº ¼Ò¼öÁ¡ ÀÌÇÏ 15ÀÚ¸®±îÁö¸¸ Ç¥±âÇÕ´Ï´Ù
+	// í‘œì¤€ í’€ë · í•¨ìˆ˜ë¡œ ì†Œìˆ˜ë¥¼ ì¶œë ¥í• ë•Œ 4 byre í¬ê¸°ì˜ ì‹¤ìˆ˜í˜•
+	//ìžë£Œí˜•ì€ ì†Œìˆ˜ì  ì´í•˜ 6ìžë¦¬ê¹Œì§€ë§Œ í‘œê¸°í•˜ë©°, 8 byte í¬ê¸°ì˜
+	//ì‹¤ìˆ˜í˜• ìžë£Œí˜•ì€ ì†Œìˆ˜ì  ì´í•˜ 15ìžë¦¬ê¹Œì§€ë§Œ í‘œê¸°í•©ë‹ˆë‹¤
 
 
 
 
 #pragma endregion
 
+//pullrequest
+	
 
 }
