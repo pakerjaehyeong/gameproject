@@ -5,12 +5,12 @@ void main()
 
 #pragma region AND 연산자
 
-	//int score = 90;
-	//char rank ='A';
-	//if (score == 90 && rank == 'A')
-	//{
-	//	printf("1st Place");
-	//}
+	//  int score = 90;
+	//  char rank ='A';
+	//  if (score == 90 && rank == 'A')
+	//  {
+	//  	printf("1st Place");
+	//  }
 
 
 
@@ -19,14 +19,14 @@ void main()
 #pragma region OR 연산자
 	// 두 개의 조건 중에서 하나라도 조건이 성립될 때 실행되는 연산자 입니다
 
-	//int weight = 70;
-	//char bodyfat = 30;
-	//
-	//if (weight > 75 || bodyfat > 20)
-	//{
-	//	printf("비만입니다");
-	//
-	//}
+	//  int weight = 70;
+	//  char bodyfat = 30;
+	//  
+	//  if (weight > 75 || bodyfat > 20)
+	//  {
+	//  	printf("비만입니다");
+	//  
+	//  }
 
 
 
