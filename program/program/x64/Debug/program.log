@@ -1,2 +1,4 @@
 ﻿  source.c
-  program.vcxproj -> C:\Users\MS\Desktop\gameproject\program\x64\Debug\program.exe
+C:\Users\MS\Desktop\gameproject\program\source.c(90,16): error C2059: 구문 오류: '숫자의 접미사가 잘못되었습니다.'
+C:\Users\MS\Desktop\gameproject\program\source.c(101,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int (*)[3]'입니다.
+C:\Users\MS\Desktop\gameproject\program\source.c(101,9): warning C4313: 'printf': 서식 문자열의 '%d'이(가) int (*)[3]' 형식의 인수 1과(와) 충돌합니다.
