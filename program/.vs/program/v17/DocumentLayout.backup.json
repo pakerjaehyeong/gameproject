@@ -43,7 +43,8 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-07-26T14:37:16.342Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -53,7 +54,7 @@
               "RelativeDocumentMoniker": "..\\Class9th(Array)\\source.c",
               "ToolTip": "C:\\Users\\MS\\Desktop\\gameproject\\Class9th(Array)\\source.c",
               "RelativeToolTip": "..\\Class9th(Array)\\source.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAIEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-07-31T09:24:36.305Z",
               "EditorCaption": ""
@@ -66,7 +67,7 @@
               "RelativeDocumentMoniker": "source.c",
               "ToolTip": "C:\\Users\\MS\\Desktop\\gameproject\\program\\source.c*",
               "RelativeToolTip": "source.c*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAADoAAAAAAAAAAAAQwHYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-07-26T09:46:27.928Z",
               "EditorCaption": ""
@@ -79,9 +80,10 @@
               "RelativeDocumentMoniker": "..\\Class7fth(Type Conversion)\\source.c",
               "ToolTip": "C:\\Users\\MS\\Desktop\\gameproject\\Class7fth(Type Conversion)\\source.c",
               "RelativeToolTip": "..\\Class7fth(Type Conversion)\\source.c",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-07-26T14:41:17.089Z"
+              "WhenOpened": "2025-07-26T14:41:17.089Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
