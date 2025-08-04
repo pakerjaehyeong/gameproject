@@ -7,6 +7,9 @@
       "RelativeMoniker": "D:0:0:{39721500-CFAC-4DEF-A79B-53C1AF71B3AF}|program.vcxproj|solutionrelative:source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E574A72D-3412-444E-813F-E98FABEA7E30}|..\\Class10th(Function)\\Class10th(Function).vcxproj|C:\\Users\\MS\\Desktop\\gameproject\\Class10th(Function)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{41728DB7-40E1-4CBE-BB07-CCF045733DB5}|..\\Class9th(Array)\\Class9th(Array).vcxproj|C:\\Users\\MS\\Desktop\\gameproject\\Class9th(Array)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
@@ -30,11 +33,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "utility.h",
               "DocumentMoniker": "C:\\Users\\MS\\Desktop\\gameproject\\program\\utility.h",
               "RelativeDocumentMoniker": "utility.h",
@@ -48,6 +51,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "source.c",
+              "DocumentMoniker": "C:\\Users\\MS\\Desktop\\gameproject\\Class10th(Function)\\source.c",
+              "RelativeDocumentMoniker": "..\\Class10th(Function)\\source.c",
+              "ToolTip": "C:\\Users\\MS\\Desktop\\gameproject\\Class10th(Function)\\source.c",
+              "RelativeToolTip": "..\\Class10th(Function)\\source.c",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAAAHYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-04T10:22:07.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "source.c",
               "DocumentMoniker": "C:\\Users\\MS\\Desktop\\gameproject\\Class9th(Array)\\source.c",
               "RelativeDocumentMoniker": "..\\Class9th(Array)\\source.c",
@@ -65,14 +81,14 @@
               "RelativeDocumentMoniker": "source.c",
               "ToolTip": "C:\\Users\\MS\\Desktop\\gameproject\\program\\source.c",
               "RelativeToolTip": "source.c",
-              "ViewState": "AgIAAHkAAAAAAAAAAAAQwHYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-07-26T09:46:27.928Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "source.c",
               "DocumentMoniker": "C:\\Users\\MS\\Desktop\\gameproject\\Class7fth(Type Conversion)\\source.c",
               "RelativeDocumentMoniker": "..\\Class7fth(Type Conversion)\\source.c",
@@ -84,7 +100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "source.c",
               "DocumentMoniker": "C:\\Users\\MS\\Desktop\\gameproject\\Class6th (Iteration Statement)\\source.c",
               "RelativeDocumentMoniker": "..\\Class6th (Iteration Statement)\\source.c",
@@ -96,7 +112,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "source.c",
               "DocumentMoniker": "C:\\Users\\MS\\Desktop\\gameproject\\Class5th (Conditional Statement)\\source.c",
               "RelativeDocumentMoniker": "..\\Class5th (Conditional Statement)\\source.c",
